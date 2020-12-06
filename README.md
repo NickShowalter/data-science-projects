@@ -1,4 +1,4 @@
-# data-analysis-projects
+# data-science-projects
 
 Wide assortment of analysis projects that demonstrate various tools, libraries, programming and etc.. skiils.
 
